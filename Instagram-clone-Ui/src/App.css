@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Source+Sans+Pro:wght@400&display=swap');
+
+body{
+  font-family: 'Roboto', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+/* background-color: #D6EAF8; */
+}
+.like{
+  color: red;
+ 
+  font-size: 20px;
+  
+  margin-top: 5px;
+  cursor: pointer;
+}
+.not_like{
+  font-size: 20px;
+  
+  margin-top: 5px;
+  cursor: pointer;
+}
+.up_margin{
+  margin-top:100px;
+}
+.brand-logo{
+  font-family: 'Grand Hotel', cursive !important;
+  font-size: 2rem !important;
+}
+.post_logo{
+  height:50px !important;
+  width:50px !important;
+  border-radius:50%;
+  background-position: center;
+  background-size: cover;
+  
+ 
+
+}
